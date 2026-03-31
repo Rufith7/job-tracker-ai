@@ -1,16 +1,54 @@
-# React + Vite
+# Job Tracker AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Demo:** https://job-tracker-rufith.vercel.app
 
-Currently, two official plugins are available:
+##  Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Job Tracker AI is a modern web application that helps users manage and track their job applications efficiently.
+It provides insights into application progress, interview success rate, and goal tracking.
 
-## React Compiler
+##  Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*  User Authentication (Firebase)
+*  Dashboard with Analytics
+*  Goal Tracking System
+*  Conversion Rate Insights
+*  Search & Filter Jobs
+*  Add & Delete Job Entries
+*  Responsive UI (Modern SaaS Design)
 
-## Expanding the ESLint configuration
+##  Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Frontend:** React.js (Vite)
+* **Styling:** Tailwind CSS
+* **Charts:** Recharts
+* **Backend/Auth:** Firebase
+* **Deployment:** Vercel
+
+## Key Insights
+
+* Tracks interview and rejection rates
+* Provides performance feedback
+* Helps users improve job application strategy
+
+##  What I Learned
+
+* Building a complete frontend application with React
+* Integrating Firebase Authentication
+* Managing application state and user data
+* Creating data-driven dashboards with charts
+* Deploying production-ready apps on Vercel
+
+##  Screenshots
+
+*(Add screenshots here later for better impact)*
+
+##  Links
+
+*  Live App: https://job-tracker-rufith.vercel.app
+*  GitHub Repo: https://github.com/Rufith7/job-tracker-ai
+
+##  Author
+
+Shaik Rufith
+MCA Student | Aspiring MERN Stack Developer
